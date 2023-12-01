@@ -1,9 +1,9 @@
-# airqualityanalysisintableaue
-
 # **Air Quality Analysis Dashboard - New York**
 
 
 **Overview**
+
+
 This Air Quality Analysis Dashboard for New York is created using Tableau, providing an interactive and visual representation of air quality data. The dashboard allows users to explore and analyze various air quality metrics and trends in different areas of New York.
 
 **Features**
@@ -29,7 +29,7 @@ Download Tableau Reader:
 To view and interact with the dashboard, users can download Tableau Reader for free from the Tableau website.
 
 
-Download Data:
+### Download Data:
 
 If the dashboard relies on external data sources, provide instructions on where users can download or access the required data.
 Open Dashboard:
