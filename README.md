@@ -6,18 +6,15 @@
 
 This Air Quality Analysis Dashboard for New York is created using Tableau, providing an interactive and visual representation of air quality data. The dashboard allows users to explore and analyze various air quality metrics and trends in different areas of New York.
 
-**Features**
+## Features
 
+- **Interactive Correlation Visualizations:** Utilizes Tableau's interactive features to showcase correlations between key air quality metrics.
+  
+- **Multiple Parameters:** Displays correlations among ozone levels, wind speed, solar radiation, temperature, and other relevant parameters.
 
-Interactive Visualizations: Utilizes Tableau's interactive features to enable users to explore and analyze air quality data dynamically.
+- **Geospatial Analysis:** Incorporates geospatial visualizations to highlight air quality variations across different regions of New York.
 
-
-
-Multiple Metrics: Displays key air quality metrics such as PM2.5 levels, ozone concentration, and other relevant parameters.
-
-Geospatial Analysis: Incorporates geospatial visualizations to highlight air quality variations across different regions of New York.
-
-Time Series Trends: Presents time series trends to showcase how air quality metrics change over time.
+- **Time Series Trends:** Presents time series trends to showcase how air quality metrics change over time.
 
 **Usage**
 
